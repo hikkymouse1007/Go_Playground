@@ -30,4 +30,4 @@ func main() {
 
 ```
 
-![ram_value](https://user-images.githubusercontent.com/54907440/104816132-63d3ea00-585c-11eb-825e-1d01d5f35a4f.png)
+![ram_value](https://user-images.githubusercontent.com/54907440/104816010-aba64180-585b-11eb-8833-faa2b587f914.png)

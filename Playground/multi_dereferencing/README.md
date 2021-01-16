@@ -1,3 +1,6 @@
+# 複数の参照
+
+```
 package main
 
 import "fmt"
@@ -49,3 +52,6 @@ func main() {
 	fmt.Println(p1, p2)
 	fmt.Printf("str1 is %T\n p1 is %T\np2 is %T\np3 is %T\n", str1, p1, p2, p3)
 }
+
+```
+![multi_deref](https://user-images.githubusercontent.com/54907440/104818267-efa04300-5869-11eb-9897-399fa02f787c.png)
