@@ -1,3 +1,12 @@
+# Go-Playground
+fork from :https://github.com/microsoft/vscode-remote-try-go.git
+Goのコードをテストする用のリポジトリ
+Remote-Containersを使用する
+
+参考資料
+- https://code.visualstudio.com/docs/remote/containers
+- https://qiita.com/maroKanatani/items/75c38f6ab2f474ef7d37
+- https://dev.classmethod.jp/articles/vscode-remote-containers-golang/
 # Try Out Development Containers: Go
 
 This is a sample project that lets you try out the **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)** extension in a few easy steps.
